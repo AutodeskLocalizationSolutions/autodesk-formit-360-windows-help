@@ -1,13 +1,16 @@
-### Setting Location
----
-> Setting your your project's location in the world it is important for the accuracy of the down-stream analyses. It also allows you to import a scaled satellite image to use as a backgroud reference.
+
+
+### Festlegen des Standorts
 
 ---
-The first step in setting a location is to make sure you are signed into your A360 account. Once you are signed in you will be able to access the location (LS) feature.
 
-- Begin by typing the location of your project into the search box in the upper left hand corner of the *Specify Location* window. 
-![](images/location 1.png)
-- Once you have located the position of your project site and the extends your want to import click the **Finish Importing Image**
-![](images/location 2.png)
-- The image will then be imported to scale with true north facing up. You can change the appreance of the imported image by double clicking and going to the [**Properties Palette**](../formit-introduction/tool-bars.md). 
-![](images/location 3.png)
+> Die Angabe des geografischen Standorts Ihres Projekts ist wichtig für die Genauigkeit von Analysen im weiteren Verlauf des Projekts. Es ist auch möglich, ein skaliertes Satellitenbild als Hintergrundreferenz zu importieren.
+
+---
+
+Um den Standort anzugeben, müssen Sie als Erstes sicherstellen, dass Sie bei Ihrem A360-Konto angemeldet sind. Sobald Sie angemeldet sind, können Sie auf die Standortfunktion (LS) zugreifen.
+
+* Beginnen Sie, indem Sie den Standort des Projekts in das Suchfeld in der oberen linken Ecke des Fensters *Standort angeben* eingeben. ![](images/location 1.png)
+* Wenn Sie den Standort Ihres Projektgrundstücks und die Grenzen des zu importierenden Bereichs angegeben haben, klicken Sie auf **Bildimport fertig stellen** ![](images/location 2.png)
+* Das Bild wird dann skaliert und importiert, wobei der geografische Norden oben liegt. Sie können die Darstellung des importierten Bildes ändern, indem Sie darauf doppelklicken und die [**Eigenschaftenpalette**](../formit-introduction/tool-bars.md) verwenden. ![](images/location 3.png)
+

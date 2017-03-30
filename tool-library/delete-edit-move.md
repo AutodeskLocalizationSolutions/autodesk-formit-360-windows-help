@@ -1,20 +1,26 @@
-### Delete, Edit, Move
+
+
+### Löschen, Bearbeiten, Verschieben
+
 ---
 
-> Remove an object, change its location, or modify its properties.
+> Sie können Objekte entfernen, neu positionieren oder ihre Eigenschaften ändern.
 
 ---
 
-#### Delete
-First make a geometry selection. Then, right-click to see the Context Menu where you can click on the **Delete Tool**. You can also press the delete key on your keyboard.
+#### Löschen
+
+Wählen Sie zunächst Geometrie aus. Öffnen Sie dann durch Rechtsklicken das Kontextmenü und klicken Sie dort auf das **Werkzeug Löschen**. Alternativ können Sie die Entf-Taste auf der Tastatur drücken.
 
 ![](images/delete.png)
 
-#### Edit
-When using many of the editing tools like Move, Array, Push Pull Face, and Offset, you will see a blue dimension box. You can click this dimension after you finish your operation, and input a specific value. You can also press the Tab key to access the Edit Dimension dialog.
- ![](images/edit dimension.png)
+#### Bearbeiten
 
-#### Move Edges, Faces, or Objects
-First select the edge, face, or object. Then you are automatically in the move tool. Hover to see snaps and inference points to specify where you want to start your move operation, click to start. Now hover your mouse to see snaps and inference points to the location you want to move the object. Click again to place the object.
+Bei vielen der Bearbeitungswerkzeuge, etwa Verschieben, Reihe, Fläche schieben/ziehen und Versetzen, wird ein blauer Rahmen für die Bemaßung angezeigt. Nachdem Sie Ihren Vorgang abgeschlossen haben, können Sie auf diese Bemaßung klicken und einen bestimmten Wert eingeben. Sie können auch die Tabulatortaste drücken, um das Dialogfeld Bemaßung bearbeiten aufzurufen. ![](images/edit dimension.png)
+
+#### Kanten, Flächen oder Objekte verschieben
+
+Wählen Sie zuerst die Kante, die Fläche oder das Objekt aus. Dadurch wird automatisch das Werkzeug Verschieben aktiviert. Setzen Sie den Cursor an die gewünschte Stelle, um Fang- und Ableitungspunkte für den Anfangspunkt der Verschiebung einzublenden, und klicken Sie, um zu beginnen. Setzen Sie jetzt den Cursor an die benötigte Stelle für die Anzeige von Fang- und Ableitungspunkten für die Zielposition der Verschiebung. Klicken Sie erneut, um das Objekt zu platzieren.
 
 ![](images/move edge.png)
+

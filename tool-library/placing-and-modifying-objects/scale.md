@@ -1,12 +1,18 @@
-### Scale
----
-> Adjust the size and orientation of objects.
+
+
+### Skalierung
 
 ---
 
-#### Scale
-First select, right-click to access the Context Menu. Then choose the scale icon. Use the scroll wheel on your mouse to scale the geometry up or down.
+> Sie können die Größe und Ausrichtung von Objekten anpassen.
+
+---
+
+#### Skalierung
+
+Wählen Sie das Objekt aus und klicken Sie mit der rechten Maustaste, um das Kontextmenü zu öffnen. Wählen Sie dann das Skalierungssymbol. Skalieren Sie die Geometrie mithilfe des Mausrads.
 
 ![](images/scale tool.png)
 
 ![](images/scale.png)
+

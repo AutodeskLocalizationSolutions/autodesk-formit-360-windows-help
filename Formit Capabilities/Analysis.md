@@ -1,28 +1,35 @@
-### Analysis
----
-> Start a BIM workflow by evaluating the performance of elements from the beginning of the design process. 
+
+
+### Analyse
 
 ---
 
+> Starten Sie BIM-Arbeitsabläufe, indem Sie im Entwurfsprozess von Anfang an die Effizienz von Elementen beurteilen.
+
+---
 <video width="100%" controls>
   <source src="Videos/Analysis.mp4" type="video/mp4">
 </video>
 
-#### Solar Analysis
-With a *** FormIt 360 Pro subscription *** you have can visualize the sun's impact on your building:
-- Specify relevant faces to be analyzed for solar impact.
-- Visualize results in seconds within the app canvas.
-- Hover your mouse or input point to see specific calculated values of solar impact.
-- Choose to view results as a monthly glazing study, or as a yearly solar panel feasibility study.
-- [Purchase a Pro subscription now.](http://www.autodesk.com/products/formit-360/try-buy)
+#### Sonnenstudie
 
-#### Energy Analysis with Insight 360
+Mit einem ***FormIt 360 Pro-Abonnement*** können Sie die Einwirkung der Sonne auf das Gebäude visuell darstellen:
 
-With a ** FormIt 360 Pro subscription ** you have access to Energy Analysis with **Insight 360:**
-- Analyze early stage design models with Green Building Studio's analysis engine.
-- Connect to a dashboard view of your results of your design, and compare options.
-- Adjust the Energy Analysis factor widgets like Window to Wall Ration, Building Orientation, and others.
-- Summarize your building's energy impact with a single number calculated as a bottom line cost per area.
-- Save your Energy Analysis results for future review with clients and other stakeholders.
-- [Learn more about the Insight 360 and FormIt 360 connection.](http://autodesk.typepad.com/bpa/2015/05/release-news-formit-360-pro.html)
-- [Purchase a Pro subscription now.](http://www.autodesk.com/products/formit-360/try-buy)
+* Geben Sie die Flächen an, die im Hinblick auf die Sonneneinwirkung analysiert werden sollen.
+* Die Ergebnisse werden innerhalb von Sekunden im Arbeitsbereich der App angezeigt.
+* Setzen Sie den Cursor auf einen bestimmten Punkt oder geben Sie diesen ein, um die berechneten Werte für die Sonneneinwirkung an diesem Punkt anzuzeigen.
+* Sie können wählen, ob die Ergebnisse als Monatswerte in einer Studie für die Verglasung oder als Jahreswerte für Machbarkeitsstudien zu Sonnenzellen angezeigt werden sollen.
+* [Jetzt Pro-Abonnement kaufen.](http://www.autodesk.com/products/formit-360/try-buy)
+
+#### Energieanalyse mit Insight 360
+
+Mit einem ** FormIt 360 Pro-Abonnement ** haben Sie Zugriff auf Energy Analysis in **Insight 360:**
+
+* Analyse von Modellen in frühen Entwurfsstadien mit der Analyse-Engine von Green Building Studio
+* Verbindung zu einer Dashboard-Ansicht der Ergebnisse im Entwurf und Vergleich von Optionen
+* Anpassen der Widgets für einzelne Faktoren in Energy Analysis, z. B. Wand-Fenster-Verhältnis, Ausrichtung des Gebäudes und mehr
+* Zusammenfassen der energetischen Auswirkung des Gebäudes zu einem einzelnen, als Endergebnis für die Kosten pro Fläche berechneten Zahlenwert
+* Speichern der Ergebnisse aus Energy Analysis zur späteren Prüfung mit Kunden und anderen Beteiligten
+* [Weitere Informationen zu Insight 360 und FormIt 360](http://autodesk.typepad.com/bpa/2015/05/release-news-formit-360-pro.html)
+* [Jetzt Pro-Abonnement kaufen.](http://www.autodesk.com/products/formit-360/try-buy)
+

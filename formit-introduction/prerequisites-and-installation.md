@@ -1,26 +1,29 @@
-![](./images/startupimage.PNG) 
 
-### Prerequisites and Installation 
 
-- Download FormIt 360 for Windows from: **[Autodesk.com](http://formit360.autodesk.com/page/download)**
+![](images/startupimage.PNG)
 
-- Revit 2016 or 2017. 
-**Note:** *This is only required for the section on Revit Interoperability.* 
+### Voraussetzungen und Installation
 
-### FormIt 360 and FormIt 360 Pro
-With **FormIt 360**, you get:
-- FormIt 360 for Web, iOS, and Android
-- 3D sketching, advanced geometry
-- Materials, layers, scenes
-- Levels, area, location
-- Revit import and export
-- SketchUp import
+* Laden Sie FormIt 360 für Windows von **[Autodesk.com](http://formit360.autodesk.com/page/download)** herunter.
 
-With **FormIt 360 Pro**, you get everything in FormIt 360 plus:
-- FormIt 360 for Windows
-- Dynamo Studio integration
-- Insight 360 analysis
-- Autodesk material library
-- Real-time collaboration
+* Revit 2016 oder 2017. **Anmerkung:** *Dies ist nur im Zusammenhang mit der Interoperabilität mit Revit erforderlich*.
 
+### FormIt 360 und FormIt 360 Pro
+
+Mit **FormIt 360** erhalten Sie:
+
+* FormIt 360 für Web, iOS und Android
+* Skizzieren in 3D, erweiterte Geometrie
+* Materialien, Layer, Szenen
+* Ebenen, Fläche, Standort
+* Revit-Import und -Export
+* SketchUp-Import
+
+Mit **FormIt 360 Pro** erhalten Sie sämtliche Funktionen von FormIt 360 sowie:
+
+* FormIt 360 für Windows
+* Integration mit Dynamo Studio
+* Analyse mit Insight 360
+* Autodesk-Materialbibliothek
+* Zusammenarbeit in Echtzeit
 

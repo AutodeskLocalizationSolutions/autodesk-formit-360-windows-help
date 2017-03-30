@@ -1,37 +1,42 @@
-### Tool Bars
+
+
+### Symbolleisten
+
 ---
+
 ![](images/Interface.PNG)
 
 ---
 
-#### Action Tool Bar
-The Action Tool Bar is found at the top of the screen. The tools here will help you create, edit, and share content.
-![](images/action tool bar.PNG)
+#### Aktionsleiste
 
-1. Gallery Menu
-2. Undo Redo
-3. Selection and Measurement
-4. Creation and Modification Tools
-5. Location and Analysis Tools
-6. User Identity
+Die Aktionsleiste befindet sich am oberen Rand des Bildschirms. Mithilfe ihrer Werkzeuge können Sie Inhalte erstellen, bearbeiten und freigeben. ![](images/action tool bar.PNG)
 
-#### Navigation Tool Bar
+1. Menü Katalog
+2. Rückgängig/Wiederholen
+3. Auswahl und Messen
+4. Werkzeuge zum Erstellen und Bearbeiten
+5. Werkzeuge für Standort und Analyse
+6. Benutzer-ID
+#### Navigationsleiste
+
 ![](images/Navigation Tool Bar.PNG)
 
-1. Scene View Modes
-2. 3D View Tools
-3. Zoom Tools
+1. Modi für Szenenansicht
+2. Werkzeuge für 3D-Ansicht
+3. Zoomwerkzeuge
+#### Palettenleiste
 
-#### Palette Bar
 ![](images/palette tool bar.PNG)
 
-1. Properties
-2. Materials
-3. Layers
-4. Scenes
-5. Visual Styles
-6. Group Tree
+1. Eigenschaften
+2. Materialien
+3. Layer
+4. Szenen
+5. Bildstile
+6. Gruppenstruktur
 7. Dynamo
-8. Levels
-9. Content Library
-10. Undo Manager
+8. Ebenen
+9. Inhaltsbibliothek
+10. Rückgängig-Manager
+

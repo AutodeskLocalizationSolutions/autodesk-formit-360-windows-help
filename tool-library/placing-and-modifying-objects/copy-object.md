@@ -1,16 +1,14 @@
-### Copy Object
+
+
+### Objekt kopieren
+
 ---
 
-There are three ways to copy an object. First select the object by **double-clicking** on it:
+Es gibt drei Möglichkeiten zum Kopieren eines Objekts. Wählen Sie zunächst das Objekt aus, indem Sie darauf **doppelklicken**:
 
-1. Right click the cube. Select the [**Copy tool**](/tool-library/tilt-array-copy-and-paste.md) in the Context Menu and then right click anywhere else in the scene and choose the **Paste button**. (This also works with **CTRL + C **or** V**).
+1. Klicken Sie mit der rechten Maustaste auf den Würfel. Wählen Sie im Kontextmenü das Werkzeug [**Kopieren**](tool-library/tilt-array-copy-and-paste.md), klicken Sie anschließend mit der rechten Maustaste auf eine beliebige andere Stelle in der Szene und wählen Sie dann die Schaltfläche **Einfügen**. (Dieser Vorgang ist auch mit **Strg + C** bzw. **V** möglich.)
 
-2. Hold the **CTRL key down** and start dragging the object - a copy will be available to drag.
+2. Halten Sie die **Strg-Taste** gedrückt und ziehen Sie das Objekt. Dadurch wird eine Kopie erstellt, die Sie ziehen können.
 
-3. **Right click** the cube and select the [**Array tool**](/tool-library/tilt-array-copy-and-paste.md). You can select the number of copies and whether the next drag will define the distance between two objects or the total length of the array. <br> ![](./images/c587fa65-069f-4d8c-910e-f19c8cf36aff.png) 
-
-
-
-
-
+3. **Klicken Sie mit der rechten Maustaste** auf den Würfel und wählen Sie das [**Werkzeug Reihe**](tool-library/tilt-array-copy-and-paste.md). Geben Sie die gewünschte Anzahl Kopien ein und legen Sie fest, ob mit dem nächsten Ziehvorgang der Abstand zwischen zwei Objekten oder die Gesamtlänge der Reihe definiert werden soll. <br xmlns="http://www.w3.org/1999/xhtml"/> ![](images/c587fa65-069f-4d8c-910e-f19c8cf36aff.png)
 

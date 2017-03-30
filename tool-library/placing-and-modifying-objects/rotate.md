@@ -1,10 +1,14 @@
-### Rotate
----
-> Change the orientation of objects.
+
+
+### Drehen
 
 ---
 
-Select elements and right click to access the rotate tool from the Context Menu. A protractor graphic will appear on your mouse, click to set the plane for rotation. You can use the blue grips to specify the start point of the rotation, and reset the axis if necessary. Use the arrows or the editable dimension box to set the rotation angle. Note that you can use the Q key to access the rotate tool after selecting an element.
+> Sie können die Ausrichtung von Objekten ändern.
 
-![](images/rotate tool.png)
-![](images/rotate.PNG)
+---
+
+Wählen Sie Elemente aus und klicken Sie mit der rechten Maustaste, um über das Kontextmenü auf das Werkzeug Drehen zuzugreifen. Am Mauszeiger wird ein Winkelmesser angezeigt. Klicken Sie, um die Ebene für die Drehung festzulegen. Sie können gegebenenfalls mithilfe der blauen Griffe den Startpunkt der Drehung angeben und die Achse neu festlegen. Mithilfe der Pfeile oder des bearbeitbaren Bemaßungsfelds können Sie den Drehwinkel einstellen. Sie können das Werkzeug Drehen auch mithilfe der Taste Q aufrufen, nachdem Sie ein Element ausgewählt haben.
+
+![](images/rotate tool.png) ![](images/rotate.PNG)
+

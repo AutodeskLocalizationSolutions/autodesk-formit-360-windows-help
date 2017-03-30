@@ -1,15 +1,18 @@
-### Shadows
----
-> This feature allows you to accurately study the effects of the sun path on your project. You will be able to predict how context will effect your project and vise versa.  
+
+
+### Schatten
 
 ---
-The first step for accurate shadows studies is to [**set your project location**](../tool-library/setting-location.md). Once you have set your location and imported the scaled image; model your project, context, and trees. For quick studies try using the [**Content Library Palatte**](../formit-introduction/tool-bars.md) to bring existing context models. 
 
-- Next step is to make sure you have shadows turned on. This can be found in the [**Visual Styles Palette**](../formit-introduction/tool-bars.md).
-![](images/shadows 1.png)
+> Diese Funktion ermöglicht eine genaue Beurteilung der Auswirkungen der Sonnenbahn auf Ihr Projekt. Sie können dadurch die Wechselwirkung zwischen Ihrem Projekt und seinem Kontext vorhersagen.
 
-- Click the *Sun and Shadows Button* in the [**Action Tool Bar**](../formit-introduction/tool-bars.md). This will give you a box that allows you to adjust date and time.
-![](images/shadows 2.png)
+---
 
-- You can then export screen shots of your studies for presentation and even animate them with the use of scenes. 
-![](images/shadows 3.png)
+Für präzise Schattenstudien müssen Sie als Erstes den [**Projektstandort festlegen**](setting-location.md). Nachdem Sie den Standort festgelegt und das skalierte Bild importiert haben, können Sie Ihr Projekt einschließlich Kontext und Bäumen modellieren. Um rasch eine Studie zu erstellen, können Sie über die [**Palette Inhaltsbibliothek**](../formit-introduction/tool-bars.md) bestehende Kontextmodelle übernehmen.
+
+* Stellen Sie im nächsten Schritt sicher, dass die Schatten aktiviert sind. Diese Einstellung befindet sich in der [**Palette Bildstile**](../formit-introduction/tool-bars.md). ![](images/shadows 1.png)
+
+* Klicken Sie auf die *Schaltfläche Sonne und Schatten* in der [**Aktionsleiste**](../formit-introduction/tool-bars.md). Dadurch wird ein Feld angezeigt, in dem Sie Datum und Uhrzeit festlegen können. ![](images/shadows 2.png)
+
+* Anschließend können Sie Screenshots Ihrer Studien für Präsentationszwecke exportieren und durch Verwendung von Szenen auch animieren. ![](images/shadows 3.png)
+

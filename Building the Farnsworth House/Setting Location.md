@@ -1,20 +1,22 @@
-### Setting Location
+
+
+### Festlegen des Standorts
+
 ---
 
-> Setting your project’s location in the world is important for the accuracy of down-stream analyses. It also allows you to import a scaled satellite image to use as a background reference.
+> Die Angabe des geografischen Standorts Ihres Projekts ist wichtig für die Genauigkeit von Analysen im weiteren Verlauf des Projekts. Es ist auch möglich, ein skaliertes Satellitenbild als Hintergrundreferenz zu importieren.
 
 ---
 
-#### Set Location:
+#### Standort festlegen
 
-1. Set location to *Farnsworth House*:
-    - Type ***Farnsworth House*** in the search field. Google Maps will fill in the actual location.
-    - As soon as you commit the location search, the location is set to the center of the view.
-2. You can now click **Finish** to set the location and return to the 3D scene.
-![](./images/4101d5b1-cd39-4a96-b4a8-8d7009c54848.png)
-Or you may optionally import a scaled satellite image:
-    - Click **Import satellite image** and then **Finish Importing Image**.
-![](./images/894bd8ae-cb86-4330-ae3f-fe58ac39ab73.png)
-    - Satellite image is imported to scale with True North facing up.
-    - Go to the [**Visual Styles Palette**](../tool-library/tool-bars-extended.md) and enable **North Arrow** to see an interactive indicator of true north.
-    - Once back in the 3D scene, **select the satellite image** by doubleclicking. Open the [**Properties Palette**](../tool-library/tool-bars-extended.md) and lower the transparency slider about **1/3**. ![](./images/038168bf-b019-4a1f-8fb7-308ae4fe218e1.png)
+1. Wählen Sie als Standort *Farnsworth House*:
+* Geben Sie ***Farnsworth Haus*** in das Suchfeld ein. Google Maps ergänzt den realen Standort.
+* Sobald Sie die Standortsuche bestätigen, wird der gesuchte Standort in der Mitte der Ansicht angezeigt.
+
+2. Jetzt können Sie auf **Fertig stellen** klicken, um den Standort festzulegen und zur 3D-Szene zurückzukehren. ![](images/4101d5b1-cd39-4a96-b4a8-8d7009c54848.png) Sie können außerdem ein skaliertes Satellitenbild importieren (optional):
+* Klicken Sie auf **Satellitenbild importieren** und dann auf **Bildimport fertig stellen**. ![](images/894bd8ae-cb86-4330-ae3f-fe58ac39ab73.png)
+* Das Satellitenbild wird maßstabsgetreu und mit dem geografischen Norden nach oben weisend importiert.
+* Wechseln Sie zur [**Palette Bildstile**](../tool-library/tool-bars-extended.md) und aktivieren Sie **Nordpfeil**, um eine interaktive Anzeige des geografischen Nordens einzublenden.
+* Wechseln Sie wieder zur 3D-Szene und **wählen Sie das Satellitenbild** durch Doppelklicken aus. Öffnen Sie die [**Eigenschaftenpalette**](../tool-library/tool-bars-extended.md) und reduzieren Sie den Wert des Schiebereglers Transparenz auf **1/3**. ![](images/038168bf-b019-4a1f-8fb7-308ae4fe218e1.png)
+

@@ -1,7 +1,10 @@
-### Revit Interop
+
+
+### Interoperabilität mit Revit
 
 ---
-> Make the connection beween Schematic Design in FormIt 360 and Design Documentation in Revit seamless. 
+
+> Der schematische Entwurf in FormIt 360 und die Entwurfsdokumentation in Revit lassen sich nahtlos verbinden.
 
 ---
 
@@ -9,33 +12,33 @@
   <source src="Videos/Revit Interop.mp4" type="video/mp4">
 </video>
 
-#### Conceptual Massing in FormIt 360
+#### Entwurfskörper in FormIt 360
 
-1. FormIt objects become Revit Mass Families which support Wall by Face, Curtain System by Face, and Roof by Face.
+1. FormIt-Objekte werden in Revit-Körperfamilien konvertiert, die die Funktionen Wand über Fläche, Fassadensystem nach Fläche und Dach über Fläche unterstützen.
 
-2. FormIt Levels become Revit Levels and support Mass Floors, Floor by Face, and Floor Plan view creation
+2. FormIt-Ebenen werden in Revit-Ebenen konvertiert und unterstützen Körpergeschosse, Geschossdecke über Fläche sowie die Erstellung von Grundrissen.
 
-#### Conceptual Modeling with Revit content in FormIt 360
+#### Arbeiten an Entwurfsmodellen mit Revit-Inhalten in FormIt 360
 
-1. Groups in FormIt can be categorized to become Revit Families like: Generic, Furniture, Specialty Equipment, etc.
+1. Gruppen aus FormIt können in Kategorien für die Konvertierung in Revit-Familien wie Allgemein, Möbel, Sonderausstattung usw. eingeordnet werden.
 
-2. Revit Families can be exported as FormIt Groups, and then in the future, automatically converted back to the original Revit Family.
+2. Revit-Familien können als FormIt-Gruppen exportiert und später automatisch wieder in die Revit-Originalfamilien zurückkonvertiert werden.
 
-#### Iteration between FormIt 360 and Revit projects
+#### Iteration zwischen FormIt 360 und Revit-Projekten
 
-1. The Import FormIt command allows you to place FormIt objects into the Revit template of your choice.
+1. Der Befehl FormIt importieren ermöglicht es, FormIt-Objekte in der gewünschten Revit-Vorlage zu platzieren.
 
-2. The Import FormIt to Revit command adds FormIt objects into an existing Revit project for easy update as the design evolves.
+2. Der Befehl zum Importieren aus FormIt in Revit fügt FormIt-Objekte in einem bestehenden Revit-Projekt hinzu und ermöglicht eine problemlose Aktualisierung, während der Entwurf weiterentwickelt wird.
 
-3. The FormIt origin point uses the Revit base point for reliable placement of Imported FormIt objects.
+3. Der Ursprungspunkt in FormIt verwendet den Basispunkt von Revit für die zuverlässige Platzierung importierter FormIt-Objekte.
 
-4. The Group Name in FormIt is remembered upon Revit Import allowing Filters.
+4. Der Gruppenname aus FormIt bleibt beim Revit-Import erhalten, sodass Filter verwendet werden können.
 
-#### Iteration between Revit and FormIt 360
+#### Iteration zwischen Revit und FormIt 360
 
-1. Revit System Families can be exported to FormIt using SAT export options.
+1. Revit-Systemfamilien können mit SAT-Exportoptionen in FormIt exportiert werden.
 
-2. Revit Families can be exported as FormIt Groups, and then in the future, automatically converted back to the original Revit Family.
+2. Revit-Familien können als FormIt-Gruppen exportiert und später automatisch wieder in die Revit-Originalfamilien zurückkonvertiert werden.
 
+[Weitere Informationen zur Verbindung zwischen FormIt 360 und Revit über das Zusatzmodul für Revit finden Sie hier.](http://formit360.autodesk.com/page/formit-360-revit)
 
-[Learn more about the FormIt 360 and Revit connection using the add-in for Revit.](http://formit360.autodesk.com/page/formit-360-revit)

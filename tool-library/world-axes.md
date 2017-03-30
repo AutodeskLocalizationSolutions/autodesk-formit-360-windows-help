@@ -1,25 +1,28 @@
-### World Axes
+
+
+### Weltachsen
 
 ---
-> The default coordinate system and grid can be modified by changing the world axis.
+
+> Das vorgegebene Koordinatensystem und sein Raster können durch Ändern der Weltachse bearbeitet werden.
 
 ---
 
-#### Understanding Drawing and Modeling Axes
+#### Wissenswertes über Zeichnungs- und Modellierungsachsen
 
-When a blank sketch is opened in FormIt 360, the World Axes are displayed as three red, green and blue lines in the center of the screen. These three lines, define the three Cartesian directions that define the 3D world. The "X" direction is defined by the red line, the "Y" direction by the green line and the "Z" or "up" direction by the blue line.
+Beim Öffnen einer leeren Skizze in FormIt 360 werden die Weltachsen in Form dreier Linien (rot, grün, blau) in der Mitte des Bildschirms angezeigt. Diese drei Linien markieren die drei kartesischen Richtungen, die die 3D-Welt definieren. Die X-Richtung wird durch die rote, die Y-Richtung durch die grüne und die Z-Richtung (nach oben) durch die blaue Linie definiert.
 
 ![](images/GUID-2071F7B8-9E72-46C8-B37A-5D823E17515B-low.png)
 
-To rotate the grid, right click on empty space in the scene and choose ![](images/GUID-D035D02F-480D-44A2-AE80-4B4FBF3A6117-low.png)from the context menu. Drag on the red dot to move the origin and either blue dot to rotate the axes
+Um das Raster zu drehen, klicken Sie mit der rechten Maustaste auf eine leere Stelle in der Szene und wählen Sie ![](images/GUID-D035D02F-480D-44A2-AE80-4B4FBF3A6117-low.png) aus dem Kontextmenü. Ziehen Sie den roten Punkt, um den Ursprung zu verschieben, und einen der blauen Punkte, um die Achsen zu drehen.
 
 ![](images/GUID-35918BD8-0867-423B-A6E6-A4960F6D6DD8-low.gif)
 
-To reset the coordinate system and grid back to the default setting, right click on empty space in the scene and choose 
-![](images/GUID-EB26F44B-70B2-404A-8A7C-57D094D888C3-low.png).
+Um die Vorgabeeinstellung für das Koordinatensystem und Raster wiederherzustellen, rechtsklicken Sie auf eine leere Stelle in der Szene und wählen Sie ![](images/GUID-EB26F44B-70B2-404A-8A7C-57D094D888C3-low.png).
 
-* The **red, green and blue axes** display to allow you to sketch in 3D without leaving the tool.
+* Die **rote, grüne und blaue Achse** werden angezeigt und ermöglichen das Skizzieren in 3D, ohne dass das Werkzeug beendet werden muss.
 
-* The **purple axis** displays an axis relative to the lines you are currently drawing.
+* Die **violette Achse** stellt eine Achse relativ zu den Linien dar, die Sie gerade zeichnen.
 
-* Hold down the **Shift key** while dragging a line segment to **lock to the current axis**.
+* Halten Sie die **Umschalttaste** gedrückt und ziehen Sie ein Liniensegment für die **Beschränkung auf die aktuelle Achse**.
+

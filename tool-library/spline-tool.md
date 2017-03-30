@@ -1,14 +1,18 @@
-### Spline Tool
+
+
+### Werkzeug Spline
 
 ---
-> Spline tool allows you to create organic sketches in space or on other objects.
+
+> Mit dem Werkzeug Spline können Sie fließende Formen im Raum oder auf anderen Objekten skizzieren.
 
 ---
 
-A spline is drawn from at least 3 interpolated points. The connected geometry in simplified creating a smooth and organic curve between the specified points. 
+Ein Spline wird durch Interpolation zwischen mindestens drei Punkten gezeichnet. Die verbundene Geometrie wird vereinfacht, wobei eine glatte, fließende Kurve zwischen den angegebenen Punkten entsteht.
 
-You can see the length of the line as you draw; to manually specify a length press **tab**. Splines can also close on themselves creating a face.
+Die Länge der Linie wird beim Zeichnen angezeigt. Um manuell eine Länge einzugeben, drücken Sie die **Tabulatortaste**. Splines können auch geschlossen werden, wodurch eine Fläche entsteht.
 
 ![](images/spline 1.png)
 
 ![](images/spline 2.png)
+

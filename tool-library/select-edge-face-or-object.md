@@ -1,25 +1,26 @@
-### Select Edge, Face, or Object
----
-> Choosing an object or surface is the first step to making modifications.
+
+
+### Kante, Fläche oder Objekt wählen
 
 ---
 
-To **select a face, edge or vertex**, hover over them - then single click to select.
+> Die Auswahl eines Objekts oder einer Oberfläche ist der erste Schritt bei der Bearbeitung.
+
+---
+
+Sie können **eine Fläche, eine Kante oder einen Scheitelpunkt auswählen**, indem Sie den Cursor darauf setzen und einmal klicken.
 
 ![](images/select edge.PNG)
 
-To **select an entire object**, double click the object.
+Durch Doppelklicken **wählen Sie das gesamte Objekt aus**.
 
 ![](images/select object.PNG)
 
-
-To **select multiple pieces of geometry simultaneously**, use the window selection tool. Make sure you have nothing selected, then you can click and drag your mouse from left to right, or from right to left, to capture multiple pieces.
+Zur **Auswahl mehrerer Geometrieobjekte auf einmal** verwenden Sie die Fensterauswahl. Stellen Sie sicher, dass nicht ausgewählt ist. Dann können Sie klicken und die Maus entweder von links nach rechts oder von rechts nach links ziehen.
 
 ![](images/select multiple objects.png)
 
+Verwenden Sie das Lassowerkzeug, wenn Sie mehrere Geometrieobjekte mit **größerer Präzision** auswählen möchten. Es steht im Kontextmenü zur Verfügung, das Sie durch Rechtsklicken im leeren Arbeitsbereich aufrufen. Zeichnen Sie dann eine Linie um den gewünschten Auswahlbereich.
 
-For **more precise control** in selecting multiple pieces of geometry simultaneously, use the lasso tool. You can select it from the context menu after right-clicking over the empty canvas. Then draw a line around your desired selection area.
-
-![](images/lasso context menu.png)
-![](images/select lasso.png)
+![](images/lasso context menu.png) ![](images/select lasso.png)
 

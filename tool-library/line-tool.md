@@ -1,16 +1,20 @@
-### Line Tool
+
+
+### Werkzeug Linie
 
 ---
-> Draw a lines to divide faces and construct geometry.
+
+> Durch Zeichnen von Linien können Sie Flächen teilen und Geometrie konstruieren.
 
 ---
 
-A line can be draw on all the X, Y and Z axis and also on existing geometry. When you're snapped to an axis a colored line will extend beyond the line you are drawing. You can see the length of the line as you draw; to manually a specfic length press **tab** and enter that length. 
+Sie können Linien entlang allen Achsen (X, Y, Z) sowie auf bestehender Geometrie zeichnen. Wenn Sie die Bewegung auf eine Achse beschränkt haben, wird beim Zeichnen eine farbige Linie angezeigt, die sich über die gezeichnete Linie hinaus erstreckt. Die Länge der Linie wird beim Zeichnen angezeigt. Um sie manuell anzugeben, drücken Sie die **Tabulatortaste** und geben Sie den Längenwert ein.
 
-- X = Red
-- y = Green
-- Z = Blue
+* X = Rot
+* Y = grün
+* Z = Blau
 
-You can see the length of the line as you draw; to manually specify a length press **tab**. 
+Die Länge der Linie wird beim Zeichnen angezeigt. Um manuell eine Länge einzugeben, drücken Sie die **Tabulatortaste**.
 
 ![](images/line tool.png)
+

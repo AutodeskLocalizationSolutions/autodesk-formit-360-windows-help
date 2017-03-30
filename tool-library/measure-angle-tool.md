@@ -1,19 +1,18 @@
-### Measure Angle Tool
+
+
+### Werkzeug Winkel messen
 
 ---
-> The measure angle tool is located on the [Action Tool Bar](../formit-introduction/tool-bars.md).
+
+> Das Werkzeug Winkel messen befindet sich in der [Aktionsleiste](../formit-introduction/tool-bars.md).
 
 ---
 
-The measure angel tool is used to measure angles between vertices, edges, faces, and volumes. You can also use the measure to drive drive dimensions of geometry.
+Das Werkzeug Winkel messen wird zum Messen von Winkeln zwischen Scheitelpunkten, Kanten, Flächen und Volumina verwendet . Mithilfe des Werkzeugs Messen können Sie außerdem Bemaßungen für Geometrie steuern.
 
-- Select measure tool from the Action Tool Bar or short key **M A** and and select starting point.
-![](images/measure angle 1.png)
-- Click and drag handle to the starting vertex.
-![](images/measure angle 2.png)
-- Use arrows to measure the angle between one point to another. 
-![](images/measure angle 3.png)
-- To change the geometry click on face/edge to change and enter a new angle by clicking on the provided angle. 
-![](images/measure angle 4.png)
-- **Final Result:**
-![](images/measure angle 5.png)
+* Wählen Sie das Werkzeug Messen aus der Aktionsleiste oder geben Sie die Tastenkombination **M A** ein und wählen Sie den Startpunkt. ![](images/measure angle 1.png)
+* Klicken Sie auf den Griff und ziehen Sie ihn zum Anfangsscheitelpunkt. ![](images/measure angle 2.png)
+* Verwenden Sie die Pfeile zum Messen des Winkels zwischen zwei Punkten. ![](images/measure angle 3.png)
+* Um die Geometrie zu ändern, klicken Sie auf die zu ändernde Fläche/Kante, klicken Sie auf den angezeigten Winkel und geben Sie einen neuen Winkel ein. ![](images/measure angle 4.png)
+* **Endergebnis:**![](images/measure angle 5.png)
+

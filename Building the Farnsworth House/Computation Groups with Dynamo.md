@@ -1,29 +1,32 @@
-### Computational Groups with Dynamo
----
 
-> In this section we will leverage the computational power of [Dynamo](http://dynamobim.org/) to place and modify flexible groups.
 
-> If you did not complete the last section, download and open the **farnsworth06.axm** file from the [FormIt Primer folder](https://autodesk.app.box.com/s/thavswirrbflit27rbqzl26ljj7fu1uv/1/9025446442).
+### Durch Computational Design erstellte Gruppen aus Dynamo
 
 ---
 
-#### Place and Modify Dynamo Groups
+> In diesem Abschnitt nutzen Sie die Computational Design-Funktionen von [Dynamo](http://dynamobim.org/) zum Platzieren und Ändern flexibler Gruppen.
 
-1. Open the [**Dynamo Palette**](../formit-introduction/tool-bars.md) in the Palette Bar. ![](./images/99a4e906-2dd3-4a71-bcc9-578018dc5fb8.png)
+> Wenn Sie den letzten Abschnitt nicht bearbeitet haben, laden Sie die Datei **farnsworth06.axm** aus dem [Ordner FormIt Primer](https://autodesk.app.box.com/s/thavswirrbflit27rbqzl26ljj7fu1uv/1/9025446442) herunter und öffnen Sie sie.
 
-2. Click the **+** icon.
+---
 
-3. Paste the following URL into the box: <https://www.dynamoreach.com/share/5780fb888794379c4b65b941>
+#### Platzieren und Ändern von Dynamo-Gruppen
 
-4. This will load a previously created Dynamo Group named Simple Stair. Click the **icon in the palette** and the stair will be loaded into the scene. ![](./images/7f47eb16-9bde-4a17-bf63-898774c31338.png)
+1. Öffnen Sie die [**Dynamo-Palette**](../formit-introduction/tool-bars.md) in der Palettenleiste. ![](images/99a4e906-2dd3-4a71-bcc9-578018dc5fb8.png)
 
-5. Go to the **Plan view** and **place the stair** roughly centered where the stair to the lower terrace appears on the plan. 
+2. Klicken Sie auf das **+**-Symbol.
 
-6. Double click the Group to edit it and go to the [**Properties Palette**](../formit-introduction/tool-bars.md).
+3. Fügen Sie die folgende URL in das Feld ein: [https://www.dynamoreach.com/share/5780fb888794379c4b65b941](https://www.dynamoreach.com/share/5780fb888794379c4b65b941)
 
-7. Modify the settings: <br>
-![](./images/c068120a-7b4b-4816-ba48-8f7a8066262c.png)
+4. Dadurch wird eine bereits erstellte Dynamo-Gruppe namens Simple Stair geladen. Klicken Sie auf das **Symbol in der Palette**. Die Treppe wird in die Szene geladen. ![](images/7f47eb16-9bde-4a17-bf63-898774c31338.png)
 
-8. Once it is placed, **copy** the stair to the upper terrace. Right click on copied group and select **Make Unique (M U)**.
+5. Wechseln Sie in die**Draufsicht** und **platzieren Sie die Treppe** ungefähr an der Stelle zentriert, an der die Treppe zur tieferen Terrasse im Plan angezeigt wird.
 
-9. Double click the copied group to edit and **change the Floor to Floor height setting** to **1.5**.
+6. Doppelklicken Sie auf die Gruppe, um sie zu bearbeiten, und wechseln Sie zur [**Eigenschaftenpalette**](../formit-introduction/tool-bars.md).
+
+7. Bearbeiten Sie die Einstellungen: <br xmlns="http://www.w3.org/1999/xhtml"/> ![](images/c068120a-7b4b-4816-ba48-8f7a8066262c.png)
+
+8. Nachdem Sie die Treppe platziert haben, **kopieren** Sie sie auf die obere Terrasse. Klicken Sie mit der rechten Maustaste auf die kopierte Gruppe und wählen Sie **Als eindeutig definieren (M U)**.
+
+9. Doppelklicken Sie auf die kopierte Gruppe, um sie zu bearbeiten, und **ändern Sie die Einstellung der Geschosshöhe** in **1.5**.
+

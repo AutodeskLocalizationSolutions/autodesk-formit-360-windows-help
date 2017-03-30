@@ -1,12 +1,16 @@
-### Mirror
----
-> Mirror an object.
+
+
+### Spiegeln
 
 ---
 
+> Sie können Objekte spiegeln.
 
-To mirror an object, double click to select entire object. To start the mirror right click and choose mirror or type **MI**(1). The plane that appears shows the axis the object will be mirrored on (2). The plane can be moved or rotated to customize the axis of the mirror. 
+---
+
+Dazu doppelklicken Sie zunächst auf das Objekt, um es vollständig auszuwählen. Zum Spiegeln klicken Sie dann mit der rechten Maustaste und wählen Sie Spiegeln oder geben Sie **MI** ein (1). Die daraufhin eingeblendete Ebene zeigt die Achse, an der das Objekt gespiegelt wird (2). Die Ebene kann verschoben oder gedreht werden, um die Spiegelachse anzupassen.
 
 1. ![](images/mirror 1.png)
 2. ![](images/mirror 2.PNG)
 3. ![](images/mirror 3.PNG)
+

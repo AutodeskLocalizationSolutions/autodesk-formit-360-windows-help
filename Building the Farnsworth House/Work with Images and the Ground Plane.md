@@ -1,26 +1,22 @@
-### Work with Images and the Ground Plane
+
+
+### Arbeiten mit Bildern und der Grundplatte
+
 ---
 
-You may import PNG images onto the ground plane by using the File &gt; Import menu. However, to gain more control over the scale and position, we will place a material texture onto a plane. The **plan.png** image is 3600 pixels wide by 2400 pixels high. By measuring the scale on the plan, we see that 1' is 25 pixels. This will allow us to scale the image properly in the scene.
+Sie können über das Menü Datei > Importieren PNG-Bilder auf die Grundplatte importieren. Um jedoch den Maßstab und die Position besser steuern zu können, platzieren Sie eine Materialtextur auf eine Ebene. Das Bild **plan.png** ist 3600 Pixel breit und 2400 Pixel hoch. Wenn Sie den Maßstab des Plans ermitteln, stellt sich heraus, dass 1' 25 Pixeln entspricht. Dies ermöglicht es, das Bild in der Szene passend zu skalieren.
 
+1. Wählen Sie das [**Werkzeug Rechteck (R)**](../tool-library/rectangle-tool.md) und zeichnen Sie ein Rechteck mit den Maßen **144'** mal **96'**. Über die **Tabulatortaste** können Sie exakte Bemaßungen eingeben. ![](images/49fbf65d-2c44-4cc3-9bc6-e172cd19ca81.png)
 
+2. Öffnen Sie die [**Materialpalette**](../formit-introduction/tool-bars.md) und klicken Sie auf das **+**-Symbol, um ein neues Material zu erstellen.
 
-1. Choose the [**Rectangle tool (R)**](../tool-library/rectangle-tool.md) and draw a rectangle **144'** by **96'** - use the **Tab key** to type in exact dimensions.
-![](./images/49fbf65d-2c44-4cc3-9bc6-e172cd19ca81.png)
+3. Klicken Sie auf das **Ordnersymbol** und öffnen Sie **plan.png** aus dem Unterordner FormIt Primer/Drawings.
 
-2. Open the [**Material Palette**](../formit-introduction/tool-bars.md) and click the **+** icon to create a new material.
+4. Geben im Feld Horizontal **144'** und im Feld Vertikal **96'** ein und geben Sie dem Material den Namen **Grundriss**. ![](images/8f0f2e11-ecfb-484d-94f6-0930c8ad7b20.png)
 
-3. Click the **folder icon** and open **plan.png** from the FormIt Primer/Drawings subfolder.
+5. **Klicken Sie auf OK**, um zur Szene zurückzukehren. In der [**Materialpalette**](../formit-introduction/tool-bars.md) **klicken Sie mit der rechten Maustaste** auf das Material Grundriss, wählen Sie **Farbe und Material** und **klicken Sie auf die Ebene**, die Sie skizziert haben. ![](images/ec9f4404-281a-4fb4-a104-e3dd92f67e62.png)
 
-4. Enter **144'** in the Horizontal field and **96'** in the Vertical field and name the material "**Floor Plan**".
-![](./images/8f0f2e11-ecfb-484d-94f6-0930c8ad7b20.png)
+6. **Doppelklicken** Sie auf die **gesamte Ebene**, um sie auszuwählen. **Klicken Sie mit der rechten Maustaste** und wählen Sie [**Drehen (Q)**](../tool-library/placing-and-modifying-objects/rotate.md). Verschieben Sie das Widget zum Drehen in die untere linke Ecke und drehen Sie das Bild um **9 Grad gegen den Uhrzeigersinn**. ![](images/eab003c6-c95c-4003-9068-0eb43f41a263.png)
 
-5. **Click OK** to return to the scene. In the [**Material Palette**](../formit-introduction/tool-bars.md) **right click** on the Floor Plan material and choose **Paint with Material** and then **click on the plane** you sketched.
-![](./images/ec9f4404-281a-4fb4-a104-e3dd92f67e62.png)
-
-6. **Double-click** the **entire plane** to select it. **Right click** and choose [**Rotate (Q)**](../tool-library/placing-and-modifying-objects/rotate.md). Move the Rotate widget to the bottom left corner and rotate the image **9 degrees counter clockwise**.
-![](./images/eab003c6-c95c-4003-9068-0eb43f41a263.png)
-
-7. **Right click** on the **ground plane** and choose [**Set Axes (SZ)**](../tool-library/world-axes.md). Move the axis to the bottom left corner of the of the image plane. Move the axis so that it is alinged to the angle of the plane. The ground plan grid is now aligned to the image – which will make 3D sketching much easier.
-![](./images/ed8afd35-af8a-4cf3-b3a7-71def22f9b2e.png)
+7. **Klicken Sie mit der rechten Maustaste** auf die **Grundplatte** und wählen Sie [**Achsen festlegen (SZ)**](../tool-library/world-axes.md). Verschieben Sie die Achse in die untere linke Ecke der Bildebene. Verschieben Sie die Achse so, dass sie am Winkel der Ebene ausgerichtet ist. Damit ist das Raster der Grundplatte am Bild ausgerichtet und Sie können leichter in 3D skizzieren. ![](images/ed8afd35-af8a-4cf3-b3a7-71def22f9b2e.png)
 

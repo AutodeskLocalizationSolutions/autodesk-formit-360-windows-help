@@ -1,11 +1,16 @@
-### Working with External Data
----
-> Add overlays and images to your designs for a variety of purposes. Ground overlays add additional information to your sketch or provide a schematic to trace over. 
 
-> Download files and content from SketchUp 3D Warehouse and bring them directly into FormIt with full editing capabilities. Also directly import Google Earth topographical files from SketchUp. 
+
+### Arbeiten mit externen Tabellendaten
+
+---
+
+> Sie können Ihren Entwürfen für eine Reihe von Verwendungszwecken Überlagerungen und Bilder hinzufügen. Geländeüberlagerungen ergänzen Ihre Skizze um weitere Informationen oder dienen als Vorlage zum Nachzeichnen.
+
+> Sie können Dateien und Inhalte aus SketchUp 3D Warehouse herunterladen und direkt mit uneingeschränkten Bearbeitungsmöglichkeiten in FormIt übernehmen. Darüber hinaus können Sie Google Earth-Topografiedateien aus SketchUp direkt importieren.
 
 ---
 
 <video width="100%" controls>
   <source src="Videos/Import 3D model.mp4" type="video/mp4">
 </video>
+

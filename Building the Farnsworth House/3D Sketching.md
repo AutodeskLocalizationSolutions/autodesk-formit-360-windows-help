@@ -1,53 +1,54 @@
-### 3D Sketching
+
+
+### Skizzieren in 3D
 
 ---
 
-> Placing primitives is fine, but the real power of FormIt lies in the ability to sketch in 3D. You got a sneak peak at the power of the snapping system when you used the Rotate tool in the last exercise. If you did not complete the last section, download and open the **farnsworth01.axm** file from the [FormIt Primer folder](https://autodesk.app.box.com/s/thavswirrbflit27rbqzl26ljj7fu1uv/1/9025446442).
+> Das Platzieren von Grundkörpern ist eine sehr nützliche Funktion, die wirkliche Stärke von FormIt liegt jedoch in der Möglichkeit, dreidimensional zu skizzieren. In der letzten Übung, in der die Verwendung des Werkzeugs Drehen gezeigt wurde, haben Sie bereits einen Eindruck zur Funktionsweise des Objektfangs erhalten. Wenn Sie den letzten Abschnitt nicht bearbeitet haben, laden Sie die Datei **farnsworth01.axm** aus dem [Ordner FormIt Primer](https://autodesk.app.box.com/s/thavswirrbflit27rbqzl26ljj7fu1uv/1/9025446442) herunter und öffnen Sie sie.
 
 ---
 
-#### 3D Sketching with Lines
+#### Skizzieren in 3D mithilfe von Linien
 
-1. To group the image plan in order to prevent sketched lines from "sticking", select the plane by double-clicking it, right-click and choose **Group \(G\)**.
+1. Um die Bildebene als Gruppe zusammenzufassen, sodass die skizzierten Linien nicht "hängen bleiben" können, wählen Sie die Ebene durch Doppelklicken aus, klicken Sie mit der rechten Maustaste und wählen Sie **Gruppe (G)**.
 
-2. Click the **Pencil** to open the [**Sketching Toolbar**](../formit-introduction/tool-bars.md).
+2. Klicken Sie auf das **Bleistiftsymbol**, um den [**Werkzeugkasten zum Skizzieren**](../formit-introduction/tool-bars.md) zu öffnen.
 
-3. Choose the [**Line tool (L)**](../tool-library/line-tool.md).
+3. Wählen Sie das [**Werkzeug Linie (L)**](../tool-library/line-tool.md).
 
-4. You can immediately start to sketch using straight lines segments. Click [**here**](../tool-library/world-axes.md) to learn more about 3D sketching with World Axes.
+4. Sie können sofort mit dem Skizzieren gerader Liniensegmente beginnen. Klicken Sie [**hier**](../tool-library/world-axes.md), um mehr zum Skizzieren in 3D mit Weltachsen zu erfahren.
 
-5. Start with creating a rectangle on the ground plane.
+5. Beginnen Sie, indem Sie ein Rechteck auf der Grundplatte erstellen.
 
-  * Click **Settings &gt; turn off Snap to Grid \(S G\)**.
-  * With the **Line tool**, click on **one corner** of the imported sketch. **Drag** along to define one edge of the upper terrace.
-  * Use the **Tab key** to input exact dimensions. Make the long side **77'-4 1\8"** and the short side **28'-8**".
-  * Press **Esc**. You are back in Select mode. You can now select the top face and immediately pull the volume up **12'-2"**. ![](./images/bba6b093-7e05-4a92-b792-1601dbf26ecc.png)
+* Klicken Sie auf **Einstellungen > Option Rasterfang deaktivieren (S G)**.
+* Klicken Sie mit dem **Werkzeug Linie ** auf **eine Ecke** der importierten Skizze. Definieren Sie durch **Ziehen** eine Kante der oberen Terrasse.
+* Geben Sie mithilfe der **Tabulatortaste** die exakten Maße an. Legen Sie für die lange Seite **77'-4 1/8"** und für die kurze Seite **28'-8**" fest.
+* Drücken Sie die **Esc-Taste**. Damit gelangen Sie zurück in den Auswahlmodus. Jetzt können Sie die obere Fläche auswählen und nach oben ziehen, um einen Volumenkörper zu erhalten (um **12'-2"**). ![](images/bba6b093-7e05-4a92-b792-1601dbf26ecc.png)
 
+**Anmerkung:** * Mit der roten und grünen Achse bleibt die Ausrichtung stets rechtwinklig. Wenn Sie in einem anderen Winkel relativ zum Raster zeichnen, wird eine violette Hilfslinie angezeigt, die Ihnen eine rechtwinklige Ausrichtung relativ zu Ihrer aktuellen Linie ermöglicht.*
 
-**Note**: _The red and green axes keep you at 90 degrees. When you draw at an angle to the grid, a purple guide will allow you to stay 90 degrees relative to your current line._
-
-#### Optional – 3D Sketching with the Rest of the Tools
-
----
-
-> The following exercise is not critical to finishing the house. It will allow you to experiment with some of the other 3D Sketching tools.
+#### Optional: Skizzieren in 3D mithilfe der übrigen Werkzeuge
 
 ---
 
-1. In the [**Action Tool Bar**](../formit-introduction/tool-bars.md), select the Sketch tools (pencil icon) and select the [**Arc tool**](../tool-library/arc-tool.md).
-  * Click to define the first and second point similar to the Line tool.
-  * The third drag defines the radius of the circle that defines the arc.
-  * **Note:** _As with all sketching tools, you can use the red snap points to snap to other objects in the scene._
+> Die folgende Übung ist nicht unbedingt erforderlich, um das Haus fertigzustellen. Sie haben hier jedoch die Möglichkeit, mit einigen der übrigen Werkzeuge zum Skizzieren in 3D zu experimentieren.
 
-3. Select the [**Spline Tool**](../tool-library/spline-tool.md).
+---
 
-  * Click to define any number of points to draw a spline
+1. Wählen Sie in der [**Aktionsleiste**](../formit-introduction/tool-bars.md) das Werkzeug Skizzieren (Bleistiftsymbol) und dann das [**Werkzeug Bogen**](../tool-library/arc-tool.md).
 
-4. Select the [**Circle Tool**](../tool-library/circle-tool.md).
+* Klicken Sie ähnlich wie beim Werkzeug Linie auf den ersten und zweiten Punkt.
+* Indem Sie in einem dritten Schritt ziehen, legen Sie den Radius des Kreises fest, der den Bogen definiert.
+* **Anmerkung:** * Wie bei allen Skizzierwerkzeugen können Sie auch hier mithilfe der roten Fangpunkte andere Objekte in der Szene als Fangreferenzen nutzen.*
 
-  * Hover and Click to define the center point of the circle.
-  * Click and drag to define the radius of the circle.
+2. Wählen Sie das Werkzeug [**Spline**](../tool-library/spline-tool.md).
 
+* Definieren Sie durch Klicken auf die gewünschten Stellen beliebig viele Punkte, um einen Spline zu zeichnen.
 
-**Important Note:** _When you snap any curve segment to any other point, line or object face/edge/point, the objects will now be joined as one object. To avoid this, we will use Groups in a later exercise._
+3. Wählen Sie das [**Werkzeug Kreis**](../tool-library/circle-tool.md).
+
+* Setzen Sie den Mauszeiger auf die gewünschte Stelle und klicken Sie, um den Mittelpunkt des Kreises zu definieren.
+* Bestimmen Sie durch Klicken und Ziehen den Radius des Kreises.
+
+**Wichtiger Hinweis:*** Wenn Sie ein Kurvensegment durch Objektfang an einem beliebigen anderen Punkt, einer Linie oder an einer Fläche, einer Kante oder einem Punkt auf einem Objekt erstellen, werden die Objekte zu einem einzigen Objekt verbunden. Um dies zu vermeiden, verwenden Sie Gruppen wie in einer späteren Übung beschrieben.*
 

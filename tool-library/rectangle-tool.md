@@ -1,20 +1,24 @@
-### Rectangle Tool
+
+
+### Werkzeug Rechteck
 
 ---
-> Draws a rectangle that becomes a face when opteration is complete. The resulting face can be extruded into a volume. 
+
+> Zeichnet ein Rechteck, das anschließend in eine Fläche umgewandelt wird. Die resultierende Fläche kann in ein Volumen extrudiert werden.
 
 ---
 
-A rectangle can be draw on all the X, Y and Z axis. When you're snapped to an axis a colored line will extend beyond one edge of the rectangle as you are drawing. You can see the length of one side of the rectangle as you draw; to manually a specify a length press **tab** and enter that length.
+Rechtecke können entlang allen Achsen (X, Y und Z) gezeichnet werden. Wenn Sie die Bewegung auf eine Achse beschränkt haben, wird beim Zeichnen eine farbige Linie angezeigt, die sich über eine Kante des Rechtecks hinaus erstreckt. Sie können die Länge einer Seite des Rechtecks beim Zeichnen anzeigen. Um die Länge manuell anzugeben, drücken Sie die **Tabulatortaste** und geben Sie den Längenwert ein.
 
-- X = Red
-- y = Green
-- Z = Blue
+* X = Rot
+* Y = grün
+* Z = Blau
 
-You can see the length of the line as you draw; to manually specify a length press **tab**. 
+Die Länge der Linie wird beim Zeichnen angezeigt. Um manuell eine Länge einzugeben, drücken Sie die **Tabulatortaste**.
 
 ![](images/rectangle tool 1.png)
 
 ![](images/rectangle tool 2.png)
 
-Once you are finished drawing the rectangle it will become a face that can be extruded to create a volume. 
+Nachdem Sie das Rechteck gezeichnet haben, wird dieses in eine Fläche konvertiert, aus der Sie durch Extrudieren ein Volumen erstellen können.
+

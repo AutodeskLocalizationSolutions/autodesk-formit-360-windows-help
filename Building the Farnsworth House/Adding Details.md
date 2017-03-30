@@ -1,49 +1,54 @@
-### Adding Detail
+
+
+### Hinzufügen von Details
 
 ---
 
-> If you did not complete the last section, download and open the **farnsworth04.axm** file from the [FormIt Primer folder](https://autodesk.app.box.com/s/thavswirrbflit27rbqzl26ljj7fu1uv/1/9025446442).
+> Wenn Sie den letzten Abschnitt nicht bearbeitet haben, laden Sie die Datei **farnsworth04.axm** aus dem [Ordner FormIt Primer](https://autodesk.app.box.com/s/thavswirrbflit27rbqzl26ljj7fu1uv/1/9025446442) herunter und öffnen Sie sie.
 
 ---
 
-#### Door Frames
+#### Türrahmen
 
-We are going to create a 2" metal frame and mullions around the window glass.
+Sie erstellen einen 2" breiten Metallrahmen und Pfosten um das Fensterglas.
 
-1. **Hide** the Roof Layer.
+1. Zunächst müssen Sie den Layer mit dem Dach **ausblenden**.
 
-2. Use the [**Rectangle tool (R)**](../tool-library/rectangle-tool.md) to draw a surface over the western face of glass.
+2. Zeichnen Sie mithilfe des [**Werkzeugs Rechteck (R)**](../tool-library/rectangle-tool.md) eine Oberfläche über die westliche Glasfläche.
 
-3. Use the [**Offset Face tool (OF)**](../tool-library/extrude-cut-and-offset-faces.md) and the **Tab key** to offset another rectangle **2"** towards the interior.
+3. Versetzen Sie ein weiteres Rechteck mithilfe des [**Werkzeugs Fläche versetzen (OF)**](../tool-library/extrude-cut-and-offset-faces.md) und der **Tabulatortaste** um **2"** nach innen.
 
-4. **Select** and **extrude** the frame 2" towards the interior. ![](./images/24f63252-b1e6-4071-ba24-961269bf4490.png)
+4. **Wählen** Sie den Rahmen aus und **extrudieren** Sie ihn um 2" zur Innenseite. ![](images/24f63252-b1e6-4071-ba24-961269bf4490.png)
 
-5. Group and name the assembly **EW Frame**.
+5. Gruppieren Sie die Baugruppe und geben Sie ihr den Namen **EW Frame**.
 
-6. Import and paint the column with the material **Metal &gt; Anodized – Gray**.
+6. Importieren Sie das Material **Metall > Eloxiert – grau** und weisen Sie es der Stütze zu.
 
-7. [**Copy** or **Array**](../tool-library/tilt-array-copy-and-paste.md) the assembly to the eastern side of the building.
+7. [**Kopieren** Sie die Baugruppe oder erstellen Sie eine **Reihe**](../tool-library/tilt-array-copy-and-paste.md), um sie an der Ostseite des Gebäudes zu reproduzieren.
 
-8. Repeat steps 1-6 for the North and South sides as well.
+8. Führen Sie die Schritte 1-6 auch für die Nord- und Südseite durch.
 
-#### Create Mullions
+#### Pfosten erstellen
 
-1. Using the same methods in the previous exercise, create a 2" thick and deep mullion **11'-10 ¾"** from the North West corner. ![](./images/7657c4da-7a46-4b50-9458-d08286f9efa4.png)
+1. Erstellen Sie auf dieselbe Weise wie in der letzten Übung einen Pfosten von 2" Dicke und Tiefe **11'-10 ¾"** von der nordwestlichen Ecke entfernt. ![](images/7657c4da-7a46-4b50-9458-d08286f9efa4.png)
 
-2. Make the mullion the entire height of the glass walls (11'10").
+2. Wählen Sie als Länge des Pfostens die gesamte Höhe des Glaswände (11'10").
 
-3. Group and name the assembly **mullion**.
+3. Gruppieren Sie die Baugruppe und geben Sie ihr den Namen **Mullion**.
 
-4. Import and paint the column with the material **Metal &gt; Anodized – Gray**.
+4. Importieren Sie das Material **Metall > Eloxiert – grau** und weisen Sie es der Stütze zu.
 
-5. [**Array**](../tool-library/tilt-array-copy-and-paste.md) them three times at a distance of **11'**.
+5. Erstellen Sie eine [**Reihe**](../tool-library/tilt-array-copy-and-paste.md) mit drei weiteren Elementen im Abstand von **11'**.
 
-6. Use the **hover + Tab key** to select all mullion instances and **copy** to the south side of the wall.
+6. Wählen Sie mit der **Maus + Tabulatortaste** alle Pfostenexemplare aus und **kopieren** Sie sie an die Südseite der Wand.
 
-#### Create Door
-Using the same methods as in the previous two exercises, create a 3'-6" double door centered in the western wall. ![](./images/a4f7bb20-db89-4638-a3ad-4ae05c63d351.png)
+#### Tür erstellen
+
+Erstellen Sie auf dieselbe Weise wie in den beiden vorigen Übungen eine Doppeltür mit den Maßen 3'-6" in der Mitte der Ostwand. ![](images/a4f7bb20-db89-4638-a3ad-4ae05c63d351.png)
 
 ---
-####Related Topics:
 
-[**Cover Sweep Loft**](../tool-library/cover-sweep-loft.md)
+#### Verwandte Themen:
+
+[**Abdeckung, Sweep, Erhebung**](../tool-library/cover-sweep-loft.md)
+

@@ -1,11 +1,15 @@
-### Multiple Clients
+
+
+### Mehrere Clients
+
 ---
->  FormIt 360's mission has always been to let you design anytime, anywhere.
 
-> In addition to our Windows and web apps, we have mobile iPad and Android versions. The experience of modeling, navigating and iterating on the amazingly fast iPad Pro fulfills our mission. FormIt even takes advantage of the new Apple Pencil – the best stylus available. When you combine Formit 360 with other powerful mobile apps like Autodesk Sketchbook Pro, and Autodesk Graphic - you're able to create whole presentations on the go!
+> FormIt 360 wurde von Anfang an mit dem Ziel entwickelt, Ihnen die Arbeit an Entwürfen jederzeit und überall zu ermöglichen.
 
+> Wir bieten außer unseren Windows- und Web-Apps auch Mobilversionen für iPad und Android an. Auf dem superschnellen iPad Pro erleben Benutzer beim Modellieren, Navigieren und Iterieren genau das, was wir anstreben. In FormIt können Sie auch den neuen Apple Pencil, den besten auf dem Markt erhältlichen Stylus, verwenden. Durch Kombinieren von FormIt 360 mit anderen leistungsstarken Mobil-Apps wie Autodesk Sketchbook Pro und Autodesk Graphic können Sie auch unterwegs komplette Präsentationen erstellen!
 
 ---
 <video width="100%" controls>
   <source src="Videos/Multiple Clients.mp4" type="video/mp4">
 </video>
+

@@ -1,18 +1,22 @@
-### Boolean Operations
----
-> Use Join and Cut operations to alter objects.
+
+
+### Boolesche Operationen
 
 ---
 
-#### Join
-To perform a union, select all the objects you want to boolean. Then, select the **Join Tool** from the Context Menu. The intersecting/overlapping portion of the geometry will be united into one object. 
+> Ändern Sie Objekte mithilfe der Operationen zum Verbinden und Schneiden.
+
+---
+
+#### Verbinden
+
+Wählen Sie alle Objekte aus, die Sie in die boolesche Verbindung aufnehmen möchten. Wählen Sie dann das **Werkzeug Verbinden** aus dem Kontextmenü. Der Bereich, in dem die Geometrie sich überschneidet/überlappt, wird innerhalb eines Objekts zusammengeführt.
 
 ![](images/join tool.png)
 
-#### Cut 
-To subtract volumes from existing geometry, first select the original object. Next select the object you want to subtract from it. Then select the **Cut Tool** from the Context Menu. The intersected volume will be subtracted from the original object.
+#### Ausschneiden
 
-![](images/cut tool.png)
-![](images/cut finish.PNG)
+Um Volumina von bestehender Geometrie zu subtrahieren, wählen Sie zunächst das Originalobjekt aus. Wählen Sie anschließend das von diesem zu subtrahierende Objekt aus. Wählen Sie dann das **Werkzeug Ausschneiden** aus dem Kontextmenü. Das Schnittvolumen wird vom Originalobjekt subtrahiert.
 
+![](images/cut tool.png) ![](images/cut finish.PNG)
 

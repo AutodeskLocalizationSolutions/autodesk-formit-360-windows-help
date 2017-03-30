@@ -1,26 +1,28 @@
-### Collaboration
+
+
+### Zusammenarbeit
+
 ---
 
-> And now for “one last thing!” Real time collaboration. FormIt allows multiple users (on any combination of iOS or Web clients) to collaboratively edit a FormIt model – while seeing all of their changes in real time!
+> Zum Abschluss: Zusammenarbeit in Echtzeit. In FormIt können mehrere Benutzer (mit einer beliebigen Kombination von iOS- oder Web-Clients) gemeinsam ein FormIt-Modell bearbeiten und dabei alle ihre Änderungen in Echtzeit beobachten.
 
 ---
 
-With a FormIt 360 Pro subscription you have access to the Real-time Collaboration feature which allows you to:
-- Start a collaboration session and invite colleagues, or clients who do not need to be Pro to join.
-- Join a collaboration from the Windows, web, or mobile apps - all you need is an A360 log-in.
-- Charette with colleagues to explore designs in a shared sandbox environment.
-- Follow another collaborator's camera to see the model from their viewpoint.
-- Let a client follow your camera as you drive them through the design.
-- Chat with collaborators in the session.
-- [Purchase a Pro subscription now.](http://www.autodesk.com/store/products/formit-360-pro?licenseType=cloudSub&term=1month&support=basic)
+Ein Abonnement für FormIt 360 Pro gibt Ihnen Zugang zur Zusammenarbeit in Echtzeit mit den folgenden Funktionen:
 
+* Starten einer Sitzung mit Zusammenarbeit und Einladen von Kollegen oder Kunden, die auch ohne Pro-Version teilnehmen können.
+* Teilnahme an der Zusammenarbeit über die Windows-, Web- oder Mobil-App: Sie benötigen lediglich Anmeldedaten für A360.
+* Gemeinschaftliche Planung und Experimentieren mit Entwürfen in einer gemeinsam genutzten Sandbox-Umgebung.
+* Betrachten des Modells aus der Perspektive von Kollegen über deren Kamera.
+* Sie können Kunden erlauben, Ihrer Kamera zu folgen, während Sie den Entwurf vorführen.
+* Chat mit Kollegen in der Sitzung.
+* [Jetzt Pro-Abonnement kaufen.](http://www.autodesk.com/store/products/formit-360-pro?licenseType=cloudSub&term=1month&support=basic)
 
-#### Start a Collaboration Session
+#### Sitzung für Zusammenarbeit starten
 
-1. Start a session – this will start a collaboration session. 
-![](./images/6c166d38-6851-4d62-b2dc-8f83efd958f8.png)
+1. Starten Sie eine Sitzung – dadurch wird eine Sitzung für Zusammenarbeit gestartet. ![](images/6c166d38-6851-4d62-b2dc-8f83efd958f8.png)
 
-2. You can now email a link to a colleague. When they open the link, they will be asked to log into A360 and then you can start collaborating immediately. 
-![](./images/0b10d035-0145-4762-aaeb-3d4d628cc4a7.png)
+2. Sie können jetzt einen Link an einen Kollegen senden. Beim Öffnen des Links wird Ihr Kollege aufgefordert, sich bei A360 anzumelden. Danach können Sie direkt mit der Zusammenarbeit beginnen. ![](images/0b10d035-0145-4762-aaeb-3d4d628cc4a7.png)
 
-3. To see this in action, visit this link: <http://formit.autodesk.com/blog/2014/12/04/design-is-a-team-sport-ios-version/>.
+3. Eine Demonstration dieser Funktion finden Sie hier: [http://formit.autodesk.com/blog/2014/12/04/design-is-a-team-sport-ios-version/](http://formit.autodesk.com/blog/2014/12/04/design-is-a-team-sport-ios-version/).
+

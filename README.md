@@ -1,16 +1,20 @@
+
+
 <<<<<<< HEAD
-# FormIt Windows Documentation
-Description...
 
+# Dokumentation zu FormIt Windows
 
-=======
-![](./Appendix/images/b5030b43-df24-4259-ad6a-94bcad61bc78.png)
+Beschreibung...
 
-# Welcome to FormIt Windows Documentation
+======= ![](Appendix/images/b5030b43-df24-4259-ad6a-94bcad61bc78.png)
 
-With FormIt® 360 architectural modeling software, architects can sketch, collaborate, analyze, and revise early-stage design concepts. Work smarter from the beginning with BIM-based conceptual design.
+# Willkommen bei der Dokumentation zu FormIt Windows
 
-- Running FormIt 360 for Windows requires a subscription to FormIt 360 Pro, which can be purchased from **[Autodesk.com](http://www.autodesk.com/store/products/formit-360-pro?licenseType=cloudSub&term=1month&support=basic)**.
+Mit der FormIt® 360-Software für die Modellierung von Architektur können Architekten Konzeptentwürfe in Anfangsphasen skizzieren, analysieren und prüfen sowie gemeinsam daran arbeiten. Dies ermöglicht ein intelligenteres Arbeiten von Anfang an mit BIM-basierter Entwurfsplanung
 
-- Optionally, you can start a 30 day trial from the start up screen.
->>>>>>> origin/Phase_01_OneToOne
+* Damit Sie FormIt 360 für Windows ausführen können, benötigten Sie ein Abonnement für FormIt 360 Pro, das Sie auf **[Autodesk.com](http://www.autodesk.com/store/products/formit-360-pro?licenseType=cloudSub&term=1month&support=basic)** erwerben können.
+
+* Sie können von der Startseite aus optional eine 30-Tage-Testversion starten.
+
+> origin/Phase_01_OneToOne
+

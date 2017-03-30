@@ -1,13 +1,12 @@
-![](./Images/b5030b43-df24-4259-ad6a-94bcad61bc78.png)
+![](Images/b5030b43-df24-4259-ad6a-94bcad61bc78.png)
 
-> Version 0.1, ©2016 Autodesk, Inc.
-> July 13, 2016
+> Version 0.1, ©2016 Autodesk, Inc. 13. Juli 2016
 
-# FormIt Capabilities
+# Funktionen in FormIt
 
-Discover how to create conceptual building designs while initiating a BIM workflow.
- 
+Lernen Sie Verfahren kennen, mit denen Sie Konzeptentwürfe für Gebäude erstellen und zugleich BIM-Arbeitsabläufe starten können.
 
-Use Autodesk ®  FormIt ®  360 to capture building design concepts when ideas occur. Create those ideas in a portable digital format that can use real-world site information, such as satellite images, to orient your designs. Use real building and environmental data to support design brainstorming. Move your preliminary designs to centralized data storage for access and refinement in Autodesk ®  Revit ®  software or other applications.
+Halten Sie Ihre Ideen mit Autodesk® FormIt® 360 sofort in Konzepten für Gebäudeentwürfe fest. Zeichnen Sie diese Ideen in einem portablen digitalen Format auf, in dem Sie mithilfe realer Grundstücksdaten, beispielsweise von Satellitenbildern, Ihre Entwürfe korrekt ausrichten können. Nutzen Sie Gebäude- und Umgebungsdaten aus der realen Welt beim Brainstorming. Übertragen Sie Ihre Vorentwürfe in zentrale Datenspeicher, um mit Autodesk® Revit®-Software oder anderen Anwendungen auf sie zuzugreifen und sie weiterzuentwickeln.
 
-Watch the FormIt 360 high impact video [here](https://www.youtube.com/watch?v=4W_OKXiiSmk)!
+Ein Video zu den wichtigsten Funktionen in FormIt 360 sehen Sie [hier](https://www.youtube.com/watch?v=4W_OKXiiSmk).
+

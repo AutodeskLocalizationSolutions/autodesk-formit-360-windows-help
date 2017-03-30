@@ -1,11 +1,13 @@
-### Conceptual Modeling
+
+
+### Entwurfsmodelle
+
 ---
-> Quickly and easily create conceptual geometry to work through design options. 
+
+> Schnelle und einfache Erstellung von Geometrie zum Experimentieren mit Entwurfsoptionen.
 
 ---
 
 <video width="100%" controls>
   <source src="Videos/Concept Geometry.mp4" type="video/mp4">
 </video>
-
-

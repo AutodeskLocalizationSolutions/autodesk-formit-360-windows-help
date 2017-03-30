@@ -1,37 +1,40 @@
-### Convert Revit Families for Use in FormIt
+
+
+### Konvertieren von Revit-Familien zur Verwendung in FormIt
+
 ---
 
-1. Open Revit 2016 or 2017 and start a blank file from the Architectural Template. 
+1. Öffnen Sie Revit 2016 oder 2017 und erstellen Sie eine leere Datei aus der Vorlage für Architektur.
 
-2. From the Add-Ins tab select **Convert RFA to FormIt 360** from the FormIt 360 Converter. 
-![](./images/957577ef-e004-4b33-9ec7-350649a90755.png)
+2. Wählen Sie auf der Registerkarte Zusatzmodule unter FormIt 360 Converter die Option **RFA in FormIt 360 konvertieren**. ![](images/957577ef-e004-4b33-9ec7-350649a90755.png)
 
-3. Set the first path to **FormIt Primer\\content\\RFA** and the Converted Files path to **FormIt Primer\\content** and press OK.![](./images/032cef9c-00dd-4e03-9b89-01d93ff6e1ac.png)
+3. Legen Sie als ersten Pfad **FormIt Primer\content\RFA** und als Pfad für die konvertierten Dateien **FormIt Primer\content** fest und klicken Sie auf OK![](images/032cef9c-00dd-4e03-9b89-01d93ff6e1ac.png).
 
-4. This process will take a number of minutes as Revit opens each RFA in the first path and converts it to a format that FormIt 360 can read.
+4. Dieser Vorgang nimmt einige Minuten in Anspruch, während Revit die RFA-Dateien unter dem ersten Pfad nacheinander öffnet und in ein Format konvertiert, das FormIt 360 lesen kann.
 
-**Note**: *You do not need to run this process during the tutorial, since all of the conversions have been made already. That is where the Corbu Chair and other content in the previous exercise came from.*
+**Anmerkung:** * Während dieser Übungslektion müssen Sie diesen Vorgang nicht durchführen, da alle Konvertierungen bereits vorgenommen wurden. Der Corbusier-Stuhl und die übrigen Inhalte in der vorherigen Übung wurden von hier übernommen.*
 
-#### Import Data from FormIt into Revit
+#### Daten aus FormIt in Revit importieren
+
 ---
 
-1. Still inside Revit, choose **Import FormIt 360 to RVT** from the add-in. ![](./images/9a7673f7-a265-49c8-b665-325e9618ac65.png)
+1. Bleiben Sie in Revit und wählen Sie im Zusatzmodul die Option **FormIt 360 in RVT importieren**. ![](images/9a7673f7-a265-49c8-b665-325e9618ac65.png)
 
-2. Choose **farnsworth07.axm** from the FormIt Primer folder.
+2. Wählen Sie **farnsworth07.axm** aus dem Ordner FormIt Primer.
 
-3. This process will take a few minutes as Revit converts each object in the FormIt file into individual Mass, Generic, and Furniture family instances. 
-![](./images/cce7e450-4f6b-4f05-bdb1-88c385f58040.png)
+3. Dieser Vorgang nimmt einige Minuten in Anspruch, während Revit die einzelnen Objekte in der FormIt-Datei nacheinander in einzelne Familienexemplare für Körper-, Möbel- oder allgemeine Familien konvertiert. ![](images/cce7e450-4f6b-4f05-bdb1-88c385f58040.png)
 
-4. If we inspect the various objects, we will see that most are mass families. The Columns however, are Generic family. This will allow us to edit the family and convert to another category such as Structural Column.
+4. Bei der Analyse der verschiedenen Objekte zeigt sich, dass die meisten davon Körperfamilien angehören. Die Stützen gehören jedoch zu einer allgemeinen Familie. Dies ermöglicht es, die Familie zu bearbeiten und in eine andere Kategorie zu konvertieren, z. B. Tragwerksstützen.
 
-5. The various furniture objects are Furniture category. There is one more tool that we can use to automatically swap out the ones that were converted in the previous exercise. Select **Reload Families** from the add-in. ![](./images/fbd116b0-fbb7-4d89-a15a-83ae42639705.png)
+5. Die verschiedenen Möbelobjekte gehören zur Kategorie Möbel. Ein weiteres Werkzeug steht zur Verfügung, mit dessen Hilfe Sie automatisch die in der vorigen Übung konvertierten Objekte austauschen können. Wählen Sie im Zusatzmodul die Option **Familien neu laden**. ![](images/fbd116b0-fbb7-4d89-a15a-83ae42639705.png)
 
-6. In the dialog, select **FormIt Primer\\content.** This will point the converter at all sub-folders under this folder. Press OK. This process will take a number of minutes as it looks at each family and tries to make a match and reload the proper RFA file in its place. 
-![](./images/a97d2f55-e13c-4c34-b885-789f272949cc.png)
+6. Wählen Sie im Dialogfeld **FormIt Primer\content.** Der Konverter erfasst dadurch alle Unterordner in diesem Ordner. Klicken Sie auf OK. Dieser Vorgang nimmt einige Minuten in Anspruch, während jede Familie analysiert, nach einer Überstimmung gesucht und die entsprechende RFA-Datei an ihrer Stelle geladen wird. ![](images/a97d2f55-e13c-4c34-b885-789f272949cc.png)
 
-#### Export Data from Revit into FormIt
+#### Daten aus Revit in FormIt exportieren
+
 ---
 
-There may be times when you need to bring data from Revit into FormIt – e.g. when you have an existing Revit project that needs an area of the design to be iterated on. Export a 3D scene to the SAT file format from Revit and you will be able to import that data back into FormIt.
+Es kann erforderlich sein, Daten aus Revit in FormIt zu übernehmen, etwa wenn für einen Teilbereich des Entwurfs in einem bestehenden Revit-Projekt Iterationen benötigt werden. Exportieren Sie eine 3D-Szene aus Revit in das SAT-Dateiformat. Diese Daten können Sie dann zurück in FormIt importieren.
 
-**Note**: *Family and category information is not transferred back to FormIt 360.*
+**Anmerkung:** * Informationen zu Familie und Kategorie werden nicht in FormIt 360 zurückübertragen*.
+

@@ -1,30 +1,34 @@
-### Setting Up the Project
----
-> Autodesk 360 Drive is the primary storage medium for FormIt. However, you can also open, save, import and export files from a local drive. We will use that method for loading datasets in the Farnsworth House Primer, but you will use your A360 drive accound to log into FormIt and save your work as you move through the course.
+
+
+### Einrichten des Projekts
 
 ---
 
-#### Download, Install, and Start FormIt 360
-1. After downloading and installing FormIt 360 following the directions found [**here**](prerequisites-and-installation.md), open the program.
-
-2. **Log into FormIt** using your own Autodesk 360 credentials in the [**User Identity menu in the Action Tool Bar**](../formit-introduction/tool-bars.md). <br> 
-![](./images/f20e489d-d5b3-4cd7-8d10-68b68eb8c5e4.png)
-
-3. Start a new 'sketch' by clicking the **Gallery button &gt; New**. ![](images/new-sketch.png) 
-    - Click the **Gallery button &gt; Save Sketch &gt; to A360 drive** to save this to the FormIt folder in your A360 Drive.
-  ![](images/A360-Save.png)
-    - Name your FormIt Sketch.
-    -  Each time you save to A360 two things happen:
-        - A native FormIt file \(.AXM\) is saved to the FormIt folder in A360.
-        - A few minutes later, a RVT File of the design will be copied to the FormIt folder in A360. We will review another way to bring FormIt.
-
-4. Change the **Units** between Imperial and Metric using the [**Settings Menu in the Action Tool Bar**](../formit-introduction/tool-bars.md).
-![](./images/69fa8a69-57f3-4eaa-a00a-4976732b1547.png)
+> Autodesk 360 Drive ist das zentrale Speichermedium für FormIt. Sie können jedoch auch Dateien auf einem lokalen Laufwerk öffnen, speichern, importieren und exportieren. Die Datensätze für den Farnsworth House Primer werden auf diese Weise geladen, im weiteren Verlauf des Kurses werden Sie sich jedoch mit Ihrem Konto für Autodesk 360 Drive bei FormIt anmelden und Ihre Arbeit dort speichern.
 
 ---
 
-####Related Topics:
-[Modifying Work Planes](../tool-library/work-planes.md)
+#### FormIt 360 herunterladen, installieren und starten
 
-[Modifying World Axes](../tool-library/world-axes.md)
+1. Nachdem Sie FormIt 360 wie in den Anweisungen [**hier**](prerequisites-and-installation.md) beschrieben heruntergeladen und installiert haben, öffnen Sie das Programm.
+
+2. Verwenden Sie Ihre eigenen Anmeldedaten für Autodesk 360 zur **Anmeldung bei FormIt** über das [**Menü Benutzer-ID in der Aktionsleiste**](tool-bars.md). <br xmlns="http://www.w3.org/1999/xhtml"/> ![](images/f20e489d-d5b3-4cd7-8d10-68b68eb8c5e4.png)
+
+3. Starten Sie eine neue Skizze über **Schaltfläche Katalog > Neu**. ![](images/new-sketch.png)
+
+* Klicken Sie auf die **Schaltfläche Katalog > Skizze speichern > nach A360 Drive**, um diese im FormIt-Order auf Ihrem A360 Drive zu speichern. ![](images/A360-Save.png)
+* Benennen Sie Ihre FormIt-Skizze.
+* Jedes Mal, wenn Sie in A360 speichern, laufen zwei Vorgänge ab:
+* Eine native FormIt-Datei (AXM) wird auf A360 im FormIt-Ordner gespeichert.
+* Einige Minuten später wird eine RVT-Datei des Entwurfs auf A360 in den FormIt-Ordner kopiert. Eine weitere Möglichkeit zur Verwendung von FormIt wird später betrachtet.
+
+4. Sie können zwischen britischen und metrischen **Einheiten** wechseln, indem Sie im [**Menü Einstellungen in der Aktionsleiste**](tool-bars.md) die gewünschte Option wählen. ![](images/69fa8a69-57f3-4eaa-a00a-4976732b1547.png)
+
+---
+
+#### Verwandte Themen:
+
+[Ändern von Arbeitsebenen](../tool-library/work-planes.md)
+
+[Ändern der Weltachsen](../tool-library/world-axes.md)
 

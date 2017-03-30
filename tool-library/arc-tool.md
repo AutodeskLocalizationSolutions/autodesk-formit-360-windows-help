@@ -1,18 +1,20 @@
-### Arc Tool
+
+
+### Werkzeug Bogen
 
 ---
-> Use the arc tool to create half circles or symetrical arcs.
+
+> Mithilfe des Werkzeugs Bogen können Sie Halbkreise oder symmetrische Bogen erstellen.
 
 ---
 
-An arc is defined by three points and can be draw on the X, Y and Z axes. Define your first point then determine a distance from the first to the second point and finally a third point for the height of the arc. You will automatically be provided a 'half-circle' point which you can snap to; beyond this the arc line will extend past the first two points.
+Ein Bogen wird durch drei Punkte definiert und kann auf der X-, Y- oder Z-Achse gezeichnet werden. Definieren Sie den ersten Punkt, legen Sie dann die Entfernung vom ersten zum zweiten Punkt fest und definieren Sie schließlich einen dritten Punkt für die Höhe des Bogens. Ein Punkt, der den Halbkreis markiert, wird automatisch angezeigt und kann als Fangpunkt verwendet werden. Jenseits davon wird die Bogenlinie über die ersten beiden Punkte hinaus verlängert.
 
-
-You can see the length between the first point and the second point as you're determining the second points next location; to manually specify a length press **tab**. 
+Während Sie die Position des zweiten Punkts bestimmen, wird die Entfernung zwischen dem ersten und zweiten Punkt angezeigt. Über die **Tabulatortaste** können Sie den Abstand manuell eingeben.
 
 ![](images/arc tool 1.png)
 
 ![](images/arc tool 2.png)
 
-After drawing the arc You can make a face by then using the [line tool](../tool-library/line-tool.md) to connected point 1 and point 2.
+Nachdem Sie den Bogen gezeichnet haben, können Sie die Punkte 1 und 2 mithilfe des [Werkzeugs Linie](line-tool.md) verbinden, um eine Fläche zu erhalten.
 
